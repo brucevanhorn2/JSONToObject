@@ -1,0 +1,10 @@
+C:\Users\bruce\source\repos\ObjToJson\ObjToJson\bin\Debug\ObjToJson.exe.config
+C:\Users\bruce\source\repos\ObjToJson\ObjToJson\bin\Debug\ObjToJson.exe
+C:\Users\bruce\source\repos\ObjToJson\ObjToJson\bin\Debug\ObjToJson.pdb
+C:\Users\bruce\source\repos\ObjToJson\ObjToJson\obj\Debug\ObjToJson.csprojAssemblyReference.cache
+C:\Users\bruce\source\repos\ObjToJson\ObjToJson\obj\Debug\ObjToJson.Form1.resources
+C:\Users\bruce\source\repos\ObjToJson\ObjToJson\obj\Debug\ObjToJson.Properties.Resources.resources
+C:\Users\bruce\source\repos\ObjToJson\ObjToJson\obj\Debug\ObjToJson.csproj.GenerateResource.cache
+C:\Users\bruce\source\repos\ObjToJson\ObjToJson\obj\Debug\ObjToJson.csproj.CoreCompileInputs.cache
+C:\Users\bruce\source\repos\ObjToJson\ObjToJson\obj\Debug\ObjToJson.exe
+C:\Users\bruce\source\repos\ObjToJson\ObjToJson\obj\Debug\ObjToJson.pdb
